@@ -1,4 +1,4 @@
 # my-first-django-deployment
-deployment of djangoproject
+Deployment of djangoproject
 
 Just a test deployment and training of Django. 
